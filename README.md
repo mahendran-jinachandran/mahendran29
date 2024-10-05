@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## LeetCode Stats
+## My LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/mahendran29?theme=dark)
+![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/api?username=mahendran29&theme=dark)
 
-### Heatmap of Recent Activity
-<iframe src="https://leetcode.com/u/mahendran29/" width="100%" height="400px"></iframe>
 
