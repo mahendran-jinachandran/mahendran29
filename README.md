@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/mahendran29?theme=dark)
+
+### Heatmap of Recent Activity
+<iframe src="https://leetcode.com/your-username" width="100%" height="400px"></iframe>
+
