@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool/api?username=mahendran29&theme=dark)
+![Leetcode Stats](https://leetcode.com/u/mahendran29/)
 
 
