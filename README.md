@@ -21,7 +21,27 @@
   <img width="19" />
 </div>
 
+###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendran-jinachandran&show_icons=true&theme=tokyonight)
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahendran2908/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="679752215811850257" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="aayushth15@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="_aayush.thakar_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 <!--
 **mahendran29/mahendran29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
