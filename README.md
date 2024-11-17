@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendran-jinachandran&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
@@ -21,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  />
   <img width="19" />
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendran-jinachandran&show_icons=true&theme=tokyonight)
 
 <!--
 **mahendran29/mahendran29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
