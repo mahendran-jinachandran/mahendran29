@@ -29,7 +29,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
 </div>
-###
 
 <!--
 **mahendran29/mahendran29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
